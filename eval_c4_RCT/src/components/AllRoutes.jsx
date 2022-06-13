@@ -4,7 +4,7 @@
 import React from "react"
 import {Routes,Route} from "react-router-dom"
 import Company from "../pages/Company";
-import Homepage from "../pages/Homepage";
+import Homepage from "../pages/HomePage";
 import Employee from "../pages/Employee";
 const AllRoutes=()=>{
     return(
