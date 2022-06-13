@@ -1,0 +1,40 @@
+{
+    "company":[
+        {
+         "id":1,
+         "company_name":"Linkdin",
+         "employee_name":"Guru",
+         "CTC":"15LPA"
+    },
+    {
+        "id":1,
+        "company_name":"Masai School",
+        "employee_name":"Sanket",
+        "CTC":"18LPA"
+   },
+   {
+    "id":1,
+    "company_name":"FlipKart",
+    "employee_name":"Girija",
+    "CTC":"15LPA"
+},
+{
+    "id":1,
+    "company_name":"Myntra",
+    "employee_name":"Kajal",
+    "CTC":"25LPA"
+},
+{
+    "id":1,
+    "company_name":"Amazon",
+    "employee_name":"Dipali",
+    "CTC":"10LPA"
+}
+, {
+    "id":1,
+    "company_name":"TCS",
+    "employee_name":"Gauri",
+    "CTC":"15LPA"
+}
+]
+}
